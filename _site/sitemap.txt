@@ -29,9 +29,3 @@ https://pjmajtczak.github.io/tabs-accordions
 https://pjmajtczak.github.io/tags
 https://pjmajtczak.github.io/team
 https://pjmajtczak.github.io/typography
-
-https://pjmajtczak.github.io/docs/2017/10/08/helium-jekyll-theme-markdown-examples
-https://pjmajtczak.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing
-https://pjmajtczak.github.io/lessons/2017/02/15/helium-theme-syntax-highlight-example
-https://pjmajtczak.github.io/lessons/2017/01/17/testing-locally-helium-jekyll
-https://pjmajtczak.github.io/lessons/2017/01/01/hello-world
