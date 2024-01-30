@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Helium Jekyll</title>
- <link href="https://heliumjk.github.io/" rel="self"/>
- <link href="https://heliumjk.github.io"/>
- <updated>2024-01-30T13:13:17+01:00</updated>
- <id>https://heliumjk.github.io</id>
+ <title>Habiliter Coach</title>
+ <link href="https://pjmajtczak.github.io/" rel="self"/>
+ <link href="https://pjmajtczak.github.io"/>
+ <updated>2024-01-30T14:04:07+01:00</updated>
+ <id>https://pjmajtczak.github.io</id>
  <author>
-   <name>Antonio Trento</name>
+   <name>Habiliter Coach</name>
    <email>lantoniotrento@gmail.com</email>
  </author>
 
  
  <entry>
    <title>Helium Jekyll Theme Markdown Examples</title>
-   <link href="https://heliumjk.github.io/docs/2017/10/08/helium-jekyll-theme-markdown-examples"/>
+   <link href="https://pjmajtczak.github.io/docs/2017/10/08/helium-jekyll-theme-markdown-examples"/>
    <updated>2017-10-08T00:00:00+02:00</updated>
-   <id>https://heliumjk.github.io/docs/2017/10/08/helium-jekyll-theme-markdown-examples</id>
+   <id>https://pjmajtczak.github.io/docs/2017/10/08/helium-jekyll-theme-markdown-examples</id>
    <content type="html">
 &lt;p&gt;Markdown samples usefull when you start write your blog 🎉 🎆.&lt;/p&gt;
 
@@ -129,7 +129,7 @@ frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
 
 &lt;h4 class=&quot;sub-title&quot; id=&quot;in-markdown-cannot-guarantee-it-work-well-1&quot;&gt;in markdown cannot guarantee it work well&lt;/h4&gt;
 
-&lt;p&gt;If are you looking to html version explore &lt;a href=&quot;/heliumjk.github.io/labels-alerts&quot;&gt;Labels Alerts&lt;/a&gt; and &lt;a href=&quot;/heliumjk.github.io/components&quot;&gt;Components&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If are you looking to html version explore &lt;a href=&quot;/pjmajtczak.github.io/labels-alerts&quot;&gt;Labels Alerts&lt;/a&gt; and &lt;a href=&quot;/pjmajtczak.github.io/components&quot;&gt;Components&lt;/a&gt;&lt;/p&gt;
 
 &lt;p class=&quot;massage-box alert-success&quot;&gt;&lt;strong&gt;Test Message alert success&lt;/strong&gt; 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt a in, ullam.&lt;/p&gt;
@@ -483,9 +483,9 @@ you&apos;ve got to put paragraph tags in your blockquotes:&amp;lt;/p&amp;gt;
  
  <entry>
    <title>Make Your Jekyll Website Amazing</title>
-   <link href="https://heliumjk.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing"/>
+   <link href="https://pjmajtczak.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing"/>
    <updated>2017-03-20T00:00:00+01:00</updated>
-   <id>https://heliumjk.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing</id>
+   <id>https://pjmajtczak.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing</id>
    <content type="html">
 &lt;p&gt;Jekyll can give you the possibility to make awesome websites in minutes.
 &lt;!--more--&gt;
@@ -500,9 +500,9 @@ That are &lt;strong&gt;more faster than major other sites in the world&lt;/stron
  
  <entry>
    <title>Helium Theme Syntax Highlight Example</title>
-   <link href="https://heliumjk.github.io/lessons/2017/02/15/helium-theme-syntax-highlight-example"/>
+   <link href="https://pjmajtczak.github.io/lessons/2017/02/15/helium-theme-syntax-highlight-example"/>
    <updated>2017-02-15T00:00:00+01:00</updated>
-   <id>https://heliumjk.github.io/lessons/2017/02/15/helium-theme-syntax-highlight-example</id>
+   <id>https://pjmajtczak.github.io/lessons/2017/02/15/helium-theme-syntax-highlight-example</id>
    <content type="html">
 &lt;p&gt;An example post about code insertion into posts.&lt;/p&gt;
 
@@ -646,9 +646,9 @@ That are &lt;strong&gt;more faster than major other sites in the world&lt;/stron
  
  <entry>
    <title>Testing Locally Helium Jekyll</title>
-   <link href="https://heliumjk.github.io/lessons/2017/01/17/testing-locally-helium-jekyll"/>
+   <link href="https://pjmajtczak.github.io/lessons/2017/01/17/testing-locally-helium-jekyll"/>
    <updated>2017-01-17T00:00:00+01:00</updated>
-   <id>https://heliumjk.github.io/lessons/2017/01/17/testing-locally-helium-jekyll</id>
+   <id>https://pjmajtczak.github.io/lessons/2017/01/17/testing-locally-helium-jekyll</id>
    <content type="html">
 &lt;p&gt;In this tutorial I will teach you &lt;em&gt;how to test your Jekyll Bootstrap3&lt;/em&gt; site locally.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -795,9 +795,9 @@ preceded by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;j
  
  <entry>
    <title>Hello World</title>
-   <link href="https://heliumjk.github.io/lessons/2017/01/01/hello-world"/>
+   <link href="https://pjmajtczak.github.io/lessons/2017/01/01/hello-world"/>
    <updated>2017-01-01T00:00:00+01:00</updated>
-   <id>https://heliumjk.github.io/lessons/2017/01/01/hello-world</id>
+   <id>https://pjmajtczak.github.io/lessons/2017/01/01/hello-world</id>
    <content type="html">
 &lt;p&gt;Hello world! Is the first post on helium jekyll
 &lt;!--more--&gt;&lt;/p&gt;
