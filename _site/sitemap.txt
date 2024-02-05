@@ -1,6 +1,5 @@
 
 https://pjmajtczak.github.io/404
-https://pjmajtczak.github.io/about-sample
 https://pjmajtczak.github.io/archive
 https://pjmajtczak.github.io/atom.xml
 https://pjmajtczak.github.io/blog-sample
@@ -27,5 +26,3 @@ https://pjmajtczak.github.io/sliders
 https://pjmajtczak.github.io/tables
 https://pjmajtczak.github.io/tabs-accordions
 https://pjmajtczak.github.io/tags
-https://pjmajtczak.github.io/team
-https://pjmajtczak.github.io/typography
